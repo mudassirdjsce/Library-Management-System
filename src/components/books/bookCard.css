@@ -1,0 +1,85 @@
+/* In bookCard.css */
+.book-card {
+  background-color: rgba(255, 255, 255, 0.95); /* More opaque background */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Increased shadow for better visibility */
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: 1px solid rgba(255, 255, 255, 0.8); /* Added border for better definition */
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.book-cover {
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+}
+
+.book-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.book-card:hover .book-cover img {
+  transform: scale(1.05);
+}
+
+.availability-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.available {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.unavailable {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+.book-info {
+  padding: 15px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.book-title {
+  margin-bottom: 5px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.book-author {
+  margin-bottom: 10px;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.book-meta {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.book-info .btn {
+  margin-top: auto;
+}
