@@ -25,23 +25,23 @@ The DJSCE Library Management System is a comprehensive solution designed to enha
 ## Screenshots
 
 ### Home Page
-<img width="1900" height="2570" alt="localhost_5173_" src="https://github.com/user-attachments/assets/7d79c016-6c7d-401a-8d79-5123c0ce3489" />
+<img width="1900" height="2225" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/3e7c723a-4ce2-44fa-b762-2f0a8346c954" />
 
 
 
 ### Catalog Page
-<img width="1900" height="2336" alt="localhost_5173_ (1)" src="https://github.com/user-attachments/assets/48307ef1-3b80-4745-9dd8-f6f2f6ab4e5c" />
+<img width="1900" height="2336" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/fabebb11-caa1-4080-919d-6d9d23200242" />
 
 
 
 ### Book Details
-<img width="1900" height="1149" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/dde5ad67-a84a-4dac-9cb4-0ac5c52f9218" />
+<img width="1900" height="1149" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/a992beeb-359a-4106-a738-c5b25a5ac919" />
 
 
 
 
 ### User Dashboard
-<img width="1900" height="1515" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/5ec415e2-4897-4da6-924f-887634a4527f" />
+<img width="1900" height="1515" alt="localhost_5173_ (7)" src="https://github.com/user-attachments/assets/61c43109-935e-448c-8aab-dd3ced3b36f7" />
 
 
 
